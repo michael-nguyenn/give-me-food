@@ -9,8 +9,8 @@ function Hero() {
         <Image
           src="/images/site/michael.jpeg"
           alt="An image showing Michael"
-          width={450}
-          height={600}
+          width={300}
+          height={300}
         />
       </div>
       <h1>Hi! I'm Michael</h1>
