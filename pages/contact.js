@@ -1,5 +1,12 @@
+import { Fragment } from 'react';
+import ContactForm from '../components/contact/contact-form';
+
 const ContactPage = () => {
-  return <div>Welcome to Contact Page!</div>;
+  return (
+    <Fragment>
+      <ContactForm />
+    </Fragment>
+  );
 };
 
 export default ContactPage;
