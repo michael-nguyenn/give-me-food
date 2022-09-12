@@ -3,7 +3,7 @@ import classes from './post-content.module.css';
 import PostHeader from './post-header';
 import Image from 'next/image';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
-import { atomDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+import { lucario } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
 import ReactMarkdown from 'react-markdown';
 
@@ -49,7 +49,7 @@ function PostContent({ post }) {
 
       return (
         <SyntaxHighlighter
-          style={atomDark}
+          style={lucario}
           language={language}
           children={children}
         />
