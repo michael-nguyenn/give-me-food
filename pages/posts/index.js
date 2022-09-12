@@ -12,11 +12,11 @@ const AllPostsPage = ({ posts }) => {
 };
 
 export function getStaticProps() {
-  const sortedPosts = getAllPosts();
+  const allPosts = getAllPosts();
 
   return {
     props: {
-      posts: sortedPosts,
+      posts: allPosts,
     },
     revalidate: 60,
   };
