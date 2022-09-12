@@ -3,6 +3,8 @@ function handler(req, res) {
 
   const { email, name, message } = req.body;
 
+  console.log(req.body);
+
   //validation
   if (
     !email ||
