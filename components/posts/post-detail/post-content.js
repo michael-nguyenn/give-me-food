@@ -3,21 +3,13 @@ import PostHeader from './post-header';
 
 import ReactMarkdown from 'react-markdown';
 
-const DUMMY_DATA = {
-  slug: 'test-michael',
-  title: 'This is a Test',
-  image: 'next-js.webp',
-  date: '2022-09-11',
-  content: '# This is a first post ',
-};
-
-function PostContent() {
-  const imagePath = `/images/posts/${DUMMY_DATA.slug}/${DUMMY_DATA.image}`;
+function PostContent({ post }) {
+  const imagePath = `/images/posts/${post.slug}/${post.image}`;
 
   return (
-    <article className={classes.content}>
-      <PostHeader title={DUMMY_DATA.title} image={imagePath} />
-      <ReactMarkdown>{DUMMY_DATA.content}</ReactMarkdown>
+    <article className={post.content}>
+      <PostHeader title={post.title} image={imagePath} />
+      <ReactMarkdown>{post.content}</ReactMarkdown>
     </article>
   );
 }
