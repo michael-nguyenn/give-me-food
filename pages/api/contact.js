@@ -27,11 +27,12 @@ async function handler(req, res) {
     message,
   };
 
-  const DB = process.env.DB_URL;
+  const dbURL = `mongodb+srv://${process.env.mongo_user}:${process.env.mongo_pass}@${process.env.mongo_cluster}.wbvaxki.mongodb.net/${process.env.mongo_db}?retryWrites=true&w=majority`;
+
   let client;
 
   try {
-    client = await MongoClient.connect(DB);
+    client = await MongoClient.connect(dbURL);
   } catch (error) {
     res.status(500).json({ message: error.message });
     return;
