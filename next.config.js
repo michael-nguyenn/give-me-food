@@ -4,8 +4,6 @@ module.exports = phase => {
   if (phase === PHASE_DEVELOPMENT_SERVER) {
     return {
       env: {
-        mongo_user: 'mike',
-        mongo_pass: 'mikemike',
         mongo_cluster: 'cluster0',
         mongo_db: 'michael-blog-dev',
       },
@@ -14,8 +12,6 @@ module.exports = phase => {
 
   return {
     env: {
-      mongo_user: 'mike',
-      mongo_pass: 'mikemike',
       mongo_cluster: 'cluster0',
       mongo_db: 'michael-blog',
     },
