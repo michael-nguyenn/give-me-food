@@ -1,7 +1,7 @@
 ---
 title: 'Tom Yum'
 date: '2022-10-22'
-image: tom-yum.webp
+image: tom-yum.jpeg
 excerpt: Tom Yum Soup... The soup that keeps you coming back for me. Don't squeeze too much lime in!
 isFeatured: true
 ---
@@ -10,20 +10,26 @@ isFeatured: true
 
 ### Ingredients
 
-- 1/2\. head garlic, separated and peeled
-- 1/2\. cup flat-leaf parsley, rinsed and finely chopped
-- 1/2\. cup good quality olive oil
-- 1\. tsp red pepper flakes
-- 1/2\. pound dry linguine
-- 1/2\. lemon
-- Salt and pepper to taste
+- 12 oz. (350 g)\. shrimp or tiger prawn, head-on and shell-on
+- 2 1/2\. cups shrimp stock (preferred), canned chicken stock, or water
+- 1\. stalk lemongrass, cut into 3-inch strips, pounded with a cleaver
+- 3\. slices of ginger
+- 6\. Kaffir lime leaves, bruised
+- 6\. bird's eyes chilies, pounded
+- 6\. fresh oyster mushrooms, cut into pieces
+- 2\. tablespoons of Thai roasted chili paste
+- 2\. 2 tablespoons Thai chilli oil
+- 3\. teaspoons fish sauce
+- 3 1/2\. tablespoons lime juice
+- Cilantro leaves, for garnishing
 
 ## Method
 
 #### Makes 2 servings
 
-1. Heavily sat a large pot of water, and bring to a boil. Cook pasta until slightly underdone while completing the steps below.
-2. Slice the garlic cloves thinly, and set aside. Heat olive oil in a large saut&eacute; pan over medium heat until barely shimmering. Add sliced garlic, stirring constantly, until softened and turning golden on the edges. Add the red pepper flakes and lower the heat to medium-low.
-3. Add the pasta, drained, with about 1/4 cup reserved pasta cooking water. Squeeze lemon juice over top, and mix into the pasta with the fresh parsley. If sauce is too watery, continue to cook for 1-3 minutes, until pasta has absorbed more liquid. Season with salt and pepper, and serve.
+1. Peel the shell and head off the shrimp, keep the tails on. Save the shell and shrimp head. Devein the shrimp and set aside.
+2. In a pot, bring 3 cups of water to boil. Add the shrimp head and shell to make shrimp stock. Boil until the water turns slightly orange in color. Press the shrimp heads with a spatula to extract the juice from the heads. Simmer and let the stock reduce to 2 1/2 cups. Drain the shrimp stock and discard the shrimp heads and shells.
+3. Turn the heat to high and add the lemongrass, galangal, kaffir lime leaves, bird's eye chilies, mushroom, nam prik pao and nam prik pao oil to the shrimp stock. Bring it to boil.
+4. Add in the shrimp and fish sauce. Lastly, add the lime juice (if you add lime juice too early, the soup might turn bitter). Boil until the shrimps are cooked, dish out, and garnish with cilantro leaves. Serve immediately.
 
-![Create route via your file + folder structure](tom-yum.webp)
+![Create route via your file + folder structure](tom-yum.jpeg)
