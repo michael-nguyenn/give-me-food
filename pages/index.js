@@ -9,7 +9,7 @@ const HomePage = ({ posts }) => {
   return (
     <Fragment>
       <Head>
-        <title>Michael&#38;s Blog</title>
+        <title>Michael&apos;s Food Blog</title>
         <meta
           name="description"
           content="I post about all my favorite recipes!"
