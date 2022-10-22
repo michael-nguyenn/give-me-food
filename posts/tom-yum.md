@@ -2,7 +2,7 @@
 title: 'Tom Yum'
 date: '2022-10-22'
 image: tom-yum.jpeg
-excerpt: Tom Yum Soup... The soup that keeps you coming back for me. Don't squeeze too much lime in!
+excerpt: Tom Yum Soup... The soup that keeps you coming back for me. Don't squeeze too much lemon in!
 isFeatured: true
 ---
 
